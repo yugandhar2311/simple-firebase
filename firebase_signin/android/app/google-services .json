@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855447219806",
+    "project_id": "fluttercal-10811",
+    "storage_bucket": "fluttercal-10811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855447219806:android:7c64b4446d1e14e89d0ecf",
+        "android_client_info": {
+          "package_name": "com.example.firebase_signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFVzQhMR6yjmdOs2zuEF19a45Pi3dk7fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
